@@ -2,7 +2,8 @@
 Langchain-based Agent utilizing OpenAI Functions to help you with a couple of Git commands
 
 
-https://github.com/jupyterjazz/git-agent/assets/45267439/d031ba6d-e25e-48f8-b992-7c245363b6f7
+
+https://github.com/jupyterjazz/git-agent/assets/45267439/c1c524bb-a42f-49b0-940a-7e5a4c722217
 
 
 ## Install
