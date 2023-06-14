@@ -17,7 +17,19 @@ git clone https://github.com/jupyterjazz/git-agent.git
 cd git-agent
 ```
 
-3. Pip install `git-agent`
+3. Create a venv
+```shell
+python3 -m venv venv
+source venv/bin/activate
+```
+
+4. Set your OPENAI_API_KEY
+
+```shell
+export OPENAI_API_KEY=<your key>
+```
+
+5. Pip install `git-agent`
 ```shell
 pip install -e .
 ```
