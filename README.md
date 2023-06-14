@@ -1,7 +1,7 @@
 # Git Agent
-Langchain-based Agent utilizing OpenAI Functions to help you with a couple of Git commands
+Langchain-based Agent utilizing OpenAI Function calling. It enables execution of Git commands using nothing but natural language inputs!
 
-
+Watch the video below to see `git-agent` in action!
 
 https://github.com/jupyterjazz/git-agent/assets/45267439/c1c524bb-a42f-49b0-940a-7e5a4c722217
 
