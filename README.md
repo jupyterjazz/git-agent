@@ -25,6 +25,11 @@ export OPENAI_API_KEY=<your key>
 Move to any repository you have locally, and ask `git-agent` to show diffs, stage/restore files in natural language!
 
 ```shell
-git-agent show me all changes I made on docarray files
+git-agent <your instruction>
 ```
+
+In this example, `git-agent` will locate files associated with `docarray` and provide the corresponding diffs only for those files.
+
+<img width="823" alt="Screenshot 2023-06-14 at 13 34 44" src="https://github.com/jupyterjazz/git-agent/assets/45267439/6c9c662b-f03a-442f-a2d4-19e43604be65">
+
 
