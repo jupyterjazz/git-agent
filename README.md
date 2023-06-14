@@ -8,31 +8,16 @@ https://github.com/jupyterjazz/git-agent/assets/45267439/c1c524bb-a42f-49b0-940a
 
 ## Install
 
-1. Clone the repository
+1. Install `git-agent`
+
 ```shell
-git clone https://github.com/jupyterjazz/git-agent.git
+pip install git+https://github.com/jupyterjazz/git-agent.git
 ```
 
-2. Move to the project dir
-```shell
-cd git-agent
-```
-
-3. Create a venv
-```shell
-python3 -m venv venv
-source venv/bin/activate
-```
-
-4. Set your OPENAI_API_KEY
+2. Set your OPENAI_API_KEY
 
 ```shell
 export OPENAI_API_KEY=<your key>
-```
-
-5. Pip install `git-agent`
-```shell
-pip install -e .
 ```
 
 ## Usage
